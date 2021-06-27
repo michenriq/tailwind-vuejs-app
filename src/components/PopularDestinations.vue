@@ -47,7 +47,7 @@ export default defineComponent({
     }
   },
   methods: {
-    getImg(image: any) {
+    getImg(image: string) {
       return require(`@/assets${image}`)
     }
   }
