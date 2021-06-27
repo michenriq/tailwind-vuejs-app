@@ -1,5 +1,9 @@
 # tailwind-vuejs
 The objective of this project is apply acquired knolodges about tailwind at vuejs app with typescript
+
+## Demo
+https://michenriq-vue-tailwind.herokuapp.com/
+
 ## Project setup
 ```
 npm install
