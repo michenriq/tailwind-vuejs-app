@@ -1,5 +1,5 @@
 # tailwind-vuejs
-The objective of this project is apply acquired knolodges about tailwind at vuejs app with typescript
+The objective of this project is apply acquired knowledges about tailwind at vuejs app with typescript
 
 ## Demo
 Responsive webapp
